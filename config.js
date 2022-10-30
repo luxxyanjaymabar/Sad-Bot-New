@@ -4,11 +4,11 @@ import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+62 822-8721-9167'],
-  ['+62 895-6121-53565'],
-  ['+62 822-8721-9167', 'Papah-Chan', true],
-  ['+62 895-6121-53565', 'Johannes', true],
-  ['+687 86.94.15', 'Johannes2', true]
+  ['+62 882-1007-2756'],
+  ['+62 882-1007-2756'],
+  ['+62 882-1007-2756', 'LuxxyXYZ', true],
+  ['+62 882-1007-2756', 'Luxxy', true],
+  ['+62 882-1007-2756', 'LUXXY JUGA', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -44,9 +44,9 @@ global.thumbnailUrl = [
   'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
 
-global.wm = '                「 ꜱᴀᴅ BOT あ⁩ 」' 
+global.wm = '                「 Luccy BOT あ⁩ 」' 
 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧Lu˚ ꒰ฅ˘օաnCcy- chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
 global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
 
@@ -74,10 +74,10 @@ global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
 global.phn = '+62 822-8721-9167'
 global.multiplier = 69 // The higher, The harder levelup
 /*============== NOMOR ==============*/
-global.nomorbot = '66801944580'
-global.nomorown = '6282287219167'
-global.namebot = 'Sad-Bot'
-global.nameown = 'Papah-Chan'
+global.nomorbot = '6287818916348'
+global.nomorown = '6288210072757'
+global.namebot = 'LuccyBot'
+global.nameown = 'LuxxyXYZ'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
